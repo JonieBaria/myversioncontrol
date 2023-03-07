@@ -1,1 +1,1 @@
-This is a test for second git push to remote repository.
+This is a test for second git push to remote repository. This is a test now for branching and merging.
